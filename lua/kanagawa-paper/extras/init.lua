@@ -12,6 +12,7 @@ M.mapping = {
   ghostty          = { ext = "", url = "https://github.com/ghostty-org/ghostty", label = "Ghostty" },
   kitty            = { ext = "conf", url = "https://sw.kovidgoyal.net/kitty/conf.html", label = "Kitty" },
   lazygit          = { ext = "yml", url = "https://github.com/jesseduffield/lazygit", label = "lazygit" },
+  nchat            = { ext = "conf", url = "https://github.com/d99kris/nchat", label = "nchat"},
   nushell          = { ext = "nu", url = "https://www.nushell.sh/", label = "Nushell" },
   tailwind         = { ext = "css", url = "https://tailwindcss.com/", label = "tailwind", palette = true },
   terminator       = { ext = "conf", url = "https://gnome-terminator.readthedocs.io/en/latest/config.html", label = "Terminator" },
